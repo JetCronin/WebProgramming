@@ -7,3 +7,12 @@ h1 {
 nav li {
    display:inline-block;   
 }
+nav li a {
+   text-decoration: none;   
+}
+div {
+   font-family: 'Courier New', Courier, monospace;
+}
+span {
+   color:#0000FF   
+}
